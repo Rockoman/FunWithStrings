@@ -1,0 +1,9 @@
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.Form1.resources
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.Properties.Resources.resources
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csproj.GenerateResource.Cache
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+c:\users\marc\documents\visual studio 2013\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb
